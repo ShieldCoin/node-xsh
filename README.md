@@ -532,9 +532,9 @@ var shield = require('node-xsh')({
 ## Testing
 
 ```
-npm install -g nodeunit
+npm install
 
-nodeunit test/test-node-xsh.js
+npm test
 ```
 
 ## Bounties
